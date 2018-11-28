@@ -13,6 +13,8 @@ provided by the IoT manufacturers. This paper presents security issues and chall
 
 # How to run?
 
+open raspberry pi terminal
+
 $ source ~/.profile
 
 $ workon cv
