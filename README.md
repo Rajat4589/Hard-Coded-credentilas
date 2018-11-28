@@ -1,4 +1,4 @@
-# Hard-Coded-credentilas and Web services using samrt camera
+# Hard-Coded-credentilas and Web services using smart camera
 
 
 Abstract: Internet of Things (IoT) is one of the emerging field of communication technology used in areas such as e-health, e-agriculture, smart cities, etc.
