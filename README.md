@@ -29,4 +29,4 @@ $ vim mail.py
 
 $python main.py
 
-$open browser 192.168.0.25:5000
+$open browser 192.168.0.25:50000
